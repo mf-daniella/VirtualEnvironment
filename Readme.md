@@ -43,3 +43,18 @@ git add .
 ```
 git status
 ```
+
+```
+git commit -m "First commit"
+```
+
+```
+git commit Branch -M
+```
+
+```
+git checkout -b new_changes
+```
+
+```
+git branch
